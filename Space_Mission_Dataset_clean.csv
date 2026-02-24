@@ -1,0 +1,201 @@
+Mission Name,Mission Type,Country,Launch Site,Budget (in Billion $),Success Rate (%),Satellite Type,Technology Used,Environmental Impact,Mission Duration (Days),Company,Location,Datum (Launch DateTime),Rocket Name,Status Rocket,Rocket Cost (in $ Million),Status Mission,Year
+USA-Spy-Ariane-2010-001,Satellite Deployment,USA,Kourou,19.04,88.55,Spy,Reusable Rocket,Low,119,ISRO,Kourou,2010-03-01 05:50:00,Ariane 5,Active,22284.96,Success,2010
+Russia-Communication-Long-2010-002,Unmanned,Russia,Cape Canaveral,8.22,62.27,Communication,Traditional Rocket,High,377,NASA,Cape Canaveral,2010-07-10 22:01:00,Long March 5,Retired,5701.36,Failure,2010
+UAE-Spy-Falcon-2016-003,Research,UAE,Jiuquan,30.26,60.8,Spy,Reusable Rocket,High,148,ESA,Jiuquan,2016-09-08 17:33:00,Falcon 9,Retired,31011.77,Partial Failure,2016
+Russia-Navigation-Falcon-2008-004,Manned,Russia,Kourou,41.71,67.09,Navigation,Traditional Rocket,High,226,ISRO,Kourou,2008-12-01 04:09:00,Falcon 9,Retired,30340.0,Success,2008
+USA-Communication-Long-2021-005,Research,USA,Cape Canaveral,15.56,76.85,Communication,Traditional Rocket,Low,235,Blue Origin,Cape Canaveral,2021-02-07 10:52:00,Long March 5,Retired,14235.13,Success,2021
+UAE-Communication-New-2010-006,Satellite Deployment,UAE,Cape Canaveral,30.79,71.39,Communication,Traditional Rocket,Medium,9,Roscosmos,Cape Canaveral,2010-06-06 22:17:00,New Shepard,Retired,21051.01,Success,2010
+UAE-Communication-GSLV-2009-007,Satellite Deployment,UAE,Baikonur,23.08,67.79,Communication,Traditional Rocket,Low,76,ISRO,Baikonur,2009-10-19 11:08:00,GSLV Mk III,Retired,24721.12,Success,2009
+India-Research-Falcon-2008-008,Research,India,Al Dhafra,29.82,83.69,Research,Traditional Rocket,Low,138,Roscosmos,Al Dhafra,2008-12-09 13:42:00,Falcon 9,Active,18723.09,Success,2008
+UAE-Navigation-GSLV-2023-009,Research,UAE,Jiuquan,3.72,97.66,Navigation,Hybrid Propulsion,High,197,NASA,Jiuquan,2023-12-07 14:59:00,GSLV Mk III,Active,4349.91,Failure,2023
+China-Communication-New-2023-010,Research,China,Cape Canaveral,15.58,86.69,Communication,Hybrid Propulsion,Medium,217,NASA,Cape Canaveral,2023-01-01 05:58:00,New Shepard,Active,10261.04,Success,2023
+USA-Research-Long-2007-011,Unmanned,USA,Al Dhafra,6.54,61.34,Research,Traditional Rocket,Medium,318,ISRO,Al Dhafra,2007-09-07 22:24:00,Long March 5,Active,5867.07,Partial Failure,2007
+India-Weather-GSLV-2006-012,Satellite Deployment,India,Jiuquan,13.31,72.16,Weather,AI-Based Navigation,High,360,ESA,Jiuquan,2006-05-27 14:36:00,GSLV Mk III,Retired,13276.9,Success,2006
+China-Navigation-New-2015-013,Manned,China,Kourou,27.56,97.81,Navigation,Hybrid Propulsion,Low,193,NASA,Kourou,2015-01-28 06:58:00,New Shepard,Active,19592.75,Failure,2015
+Russia-Communication-GSLV-2005-014,Unmanned,Russia,Jiuquan,47.01,83.32,Communication,Reusable Rocket,Medium,118,Blue Origin,Jiuquan,2005-03-09 11:33:00,GSLV Mk III,Active,53445.5,Partial Failure,2005
+France-Spy-Long-2008-015,Research,France,Al Dhafra,4.88,61.76,Spy,AI-Based Navigation,Low,48,NASA,Al Dhafra,2008-05-05 09:04:00,Long March 5,Active,3501.84,Success,2008
+France-Research-New-2020-016,Manned,France,Cape Canaveral,19.74,92.32,Research,Hybrid Propulsion,High,282,Blue Origin,Cape Canaveral,2020-01-21 22:22:00,New Shepard,Retired,15057.86,Success,2020
+UAE-Navigation-GSLV-2017-017,Satellite Deployment,UAE,Kourou,14.41,65.5,Navigation,Traditional Rocket,Medium,193,SpaceX,Kourou,2017-03-20 20:31:00,GSLV Mk III,Active,13338.15,Failure,2017
+UAE-Communication-Ariane-2013-018,Manned,UAE,Baikonur,4.19,90.12,Communication,AI-Based Navigation,Medium,297,Roscosmos,Baikonur,2013-01-17 04:03:00,Ariane 5,Active,4995.03,Success,2013
+USA-Navigation-Long-2005-019,Unmanned,USA,Cape Canaveral,0.77,87.57,Navigation,Reusable Rocket,High,395,Blue Origin,Cape Canaveral,2005-12-10 22:55:00,Long March 5,Active,838.74,Success,2005
+UAE-Weather-Soyuz-2011-020,Unmanned,UAE,Al Dhafra,38.68,73.98,Weather,Traditional Rocket,Medium,229,ESA,Al Dhafra,2011-03-28 00:14:00,Soyuz,Retired,24926.43,Success,2011
+India-Research-GSLV-2006-021,Satellite Deployment,India,Cape Canaveral,43.22,72.91,Research,Hybrid Propulsion,Low,201,Roscosmos,Cape Canaveral,2006-02-11 14:43:00,GSLV Mk III,Retired,42095.37,Success,2006
+India-Spy-Long-2011-022,Unmanned,India,Kourou,15.89,88.45,Spy,Hybrid Propulsion,Medium,325,SpaceX,Kourou,2011-12-12 23:55:00,Long March 5,Retired,12634.3,Success,2011
+Russia-Research-New-2011-023,Research,Russia,Baikonur,44.42,64.66,Research,Reusable Rocket,Medium,215,ESA,Baikonur,2011-12-24 12:28:00,New Shepard,Active,39237.47,Success,2011
+France-Communication-Long-2006-024,Unmanned,France,Cape Canaveral,38.16,90.07,Communication,Reusable Rocket,Low,122,ISRO,Cape Canaveral,2006-01-15 02:40:00,Long March 5,Active,35747.0,Success,2006
+India-Spy-Soyuz-2012-025,Unmanned,India,Baikonur,26.38,60.99,Spy,AI-Based Navigation,Low,183,NASA,Baikonur,2012-10-21 06:48:00,Soyuz,Retired,22595.12,Success,2012
+UAE-Spy-GSLV-2015-026,Satellite Deployment,UAE,Al Dhafra,2.06,72.26,Spy,Hybrid Propulsion,Low,101,NASA,Al Dhafra,2015-11-18 06:39:00,GSLV Mk III,Retired,2022.6,Success,2015
+China-Communication-Soyuz-2016-027,Unmanned,China,Baikonur,45.42,76.0,Communication,Traditional Rocket,Medium,274,Roscosmos,Baikonur,2016-12-25 18:06:00,Soyuz,Active,34045.71,Failure,2016
+France-Research-Ariane-2022-028,Unmanned,France,Cape Canaveral,11.83,71.3,Research,Traditional Rocket,Low,368,Blue Origin,Cape Canaveral,2022-09-02 03:20:00,Ariane 5,Active,7644.4,Success,2022
+USA-Communication-Soyuz-2016-029,Manned,USA,Baikonur,46.52,84.7,Communication,Reusable Rocket,Medium,5,ESA,Baikonur,2016-01-17 06:18:00,Soyuz,Retired,50468.26,Failure,2016
+USA-Navigation-New-2022-030,Manned,USA,Kourou,40.28,94.81,Navigation,Reusable Rocket,Low,385,SpaceX,Kourou,2022-02-17 15:55:00,New Shepard,Active,28677.03,Success,2022
+China-Communication-GSLV-2006-031,Satellite Deployment,China,Jiuquan,40.47,72.4,Communication,Reusable Rocket,Low,298,SpaceX,Jiuquan,2006-04-19 14:08:00,GSLV Mk III,Retired,46040.89,Success,2006
+USA-Communication-GSLV-2022-032,Satellite Deployment,USA,Jiuquan,11.78,91.9,Communication,Traditional Rocket,High,46,NASA,Jiuquan,2022-10-03 05:57:00,GSLV Mk III,Retired,10086.8,Failure,2022
+USA-Research-Soyuz-2023-033,Manned,USA,Kourou,0.84,76.28,Research,AI-Based Navigation,High,14,ESA,Kourou,2023-07-12 06:10:00,Soyuz,Active,761.42,Success,2023
+China-Spy-GSLV-2021-034,Manned,China,Sriharikota,6.43,96.77,Spy,Hybrid Propulsion,High,251,NASA,Sriharikota,2021-12-09 19:36:00,GSLV Mk III,Retired,5160.52,Success,2021
+Russia-Weather-Falcon-2014-035,Manned,Russia,Cape Canaveral,26.18,74.18,Weather,AI-Based Navigation,Medium,341,Blue Origin,Cape Canaveral,2014-07-26 11:17:00,Falcon 9,Retired,26751.02,Partial Failure,2014
+USA-Research-Long-2016-036,Research,USA,Sriharikota,48.14,79.39,Research,Reusable Rocket,Low,114,NASA,Sriharikota,2016-02-05 16:34:00,Long March 5,Active,36156.48,Success,2016
+UAE-Spy-Long-2006-037,Satellite Deployment,UAE,Al Dhafra,14.6,83.77,Spy,Traditional Rocket,Medium,215,NASA,Al Dhafra,2006-03-18 00:14:00,Long March 5,Retired,9083.13,Success,2006
+France-Weather-Ariane-2009-038,Manned,France,Al Dhafra,3.05,95.42,Weather,AI-Based Navigation,High,178,SpaceX,Al Dhafra,2009-04-03 20:52:00,Ariane 5,Retired,2339.92,Success,2009
+Russia-Navigation-GSLV-2012-039,Unmanned,Russia,Sriharikota,7.67,98.44,Navigation,Traditional Rocket,High,178,NASA,Sriharikota,2012-10-10 01:45:00,GSLV Mk III,Retired,6854.46,Success,2012
+France-Weather-GSLV-2011-040,Unmanned,France,Kourou,33.77,69.27,Weather,AI-Based Navigation,Low,100,Blue Origin,Kourou,2011-11-13 00:49:00,GSLV Mk III,Retired,35693.94,Success,2011
+USA-Communication-New-2012-041,Unmanned,USA,Jiuquan,18.71,84.71,Communication,Hybrid Propulsion,Medium,210,Roscosmos,Jiuquan,2012-12-18 22:42:00,New Shepard,Retired,18324.27,Success,2012
+China-Communication-Ariane-2007-042,Research,China,Kourou,4.97,72.51,Communication,Reusable Rocket,Low,161,NASA,Kourou,2007-10-23 17:37:00,Ariane 5,Active,5472.87,Success,2007
+USA-Spy-GSLV-2014-043,Manned,USA,Al Dhafra,2.52,86.43,Spy,Hybrid Propulsion,High,236,Blue Origin,Al Dhafra,2014-07-08 10:15:00,GSLV Mk III,Active,2405.43,Success,2014
+India-Navigation-New-2007-044,Satellite Deployment,India,Baikonur,25.85,85.16,Navigation,Hybrid Propulsion,Low,160,SpaceX,Baikonur,2007-12-04 00:35:00,New Shepard,Retired,19022.95,Success,2007
+Russia-Communication-GSLV-2011-045,Manned,Russia,Al Dhafra,34.7,96.53,Communication,AI-Based Navigation,Medium,35,ESA,Al Dhafra,2011-12-09 21:38:00,GSLV Mk III,Active,28871.83,Success,2011
+USA-Spy-New-2012-046,Research,USA,Jiuquan,17.38,96.06,Spy,Reusable Rocket,Low,300,NASA,Jiuquan,2012-12-10 07:27:00,New Shepard,Retired,11611.3,Failure,2012
+UAE-Weather-Falcon-2009-047,Unmanned,UAE,Cape Canaveral,13.27,91.87,Weather,Traditional Rocket,High,228,Blue Origin,Cape Canaveral,2009-04-15 13:18:00,Falcon 9,Active,13216.79,Success,2009
+India-Weather-Ariane-2013-048,Satellite Deployment,India,Sriharikota,26.72,63.63,Weather,Reusable Rocket,Medium,330,Roscosmos,Sriharikota,2013-04-27 18:23:00,Ariane 5,Active,19909.38,Failure,2013
+UAE-Communication-New-2005-049,Research,UAE,Baikonur,45.07,73.22,Communication,Reusable Rocket,Medium,98,SpaceX,Baikonur,2005-08-22 06:34:00,New Shepard,Retired,44162.33,Success,2005
+China-Communication-Soyuz-2010-050,Research,China,Baikonur,36.43,94.6,Communication,Reusable Rocket,High,171,NASA,Baikonur,2010-10-12 08:30:00,Soyuz,Active,41467.04,Failure,2010
+UAE-Research-Ariane-2024-051,Research,UAE,Kourou,32.28,66.3,Research,AI-Based Navigation,High,152,ESA,Kourou,2024-10-22 02:18:00,Ariane 5,Retired,20997.62,Failure,2024
+USA-Weather-New-2024-052,Manned,USA,Al Dhafra,30.52,63.96,Weather,AI-Based Navigation,Medium,392,Roscosmos,Al Dhafra,2024-04-10 18:56:00,New Shepard,Active,18480.42,Success,2024
+UAE-Research-GSLV-2017-053,Satellite Deployment,UAE,Jiuquan,0.75,81.4,Research,Reusable Rocket,Low,81,ESA,Jiuquan,2017-08-21 04:58:00,GSLV Mk III,Active,522.36,Success,2017
+France-Weather-Long-2016-054,Unmanned,France,Sriharikota,32.77,87.77,Weather,AI-Based Navigation,Medium,289,ISRO,Sriharikota,2016-09-04 12:01:00,Long March 5,Retired,24071.58,Success,2016
+France-Communication-Ariane-2016-055,Unmanned,France,Kourou,16.61,85.34,Communication,Hybrid Propulsion,High,231,SpaceX,Kourou,2016-03-15 14:42:00,Ariane 5,Active,17405.53,Failure,2016
+UAE-Weather-Soyuz-2011-056,Satellite Deployment,UAE,Baikonur,33.05,63.65,Weather,AI-Based Navigation,Low,283,NASA,Baikonur,2011-04-24 21:43:00,Soyuz,Retired,31099.56,Success,2011
+India-Spy-New-2012-057,Research,India,Cape Canaveral,13.63,97.95,Spy,Reusable Rocket,High,15,ISRO,Cape Canaveral,2012-09-03 04:38:00,New Shepard,Active,10173.35,Success,2012
+UAE-Spy-Soyuz-2015-058,Manned,UAE,Jiuquan,44.66,91.0,Spy,Hybrid Propulsion,High,110,SpaceX,Jiuquan,2015-12-18 02:13:00,Soyuz,Active,43707.99,Success,2015
+France-Research-New-2010-059,Satellite Deployment,France,Jiuquan,29.06,67.61,Research,Hybrid Propulsion,Low,181,Blue Origin,Jiuquan,2010-08-26 10:57:00,New Shepard,Retired,26023.54,Success,2010
+USA-Research-Falcon-2021-060,Research,USA,Cape Canaveral,14.4,85.17,Research,Traditional Rocket,High,170,NASA,Cape Canaveral,2021-11-15 16:40:00,Falcon 9,Active,8850.09,Success,2021
+UAE-Weather-Falcon-2022-061,Manned,UAE,Baikonur,47.05,95.68,Weather,Reusable Rocket,High,178,NASA,Baikonur,2022-08-17 09:55:00,Falcon 9,Retired,55159.4,Success,2022
+France-Communication-Ariane-2016-062,Research,France,Baikonur,1.27,76.7,Communication,AI-Based Navigation,High,385,SpaceX,Baikonur,2016-01-10 11:18:00,Ariane 5,Active,1469.38,Partial Failure,2016
+France-Research-GSLV-2018-063,Manned,France,Cape Canaveral,48.2,71.48,Research,Reusable Rocket,Low,33,Blue Origin,Cape Canaveral,2018-07-23 20:30:00,GSLV Mk III,Retired,53589.03,Success,2018
+UAE-Communication-New-2016-064,Unmanned,UAE,Al Dhafra,42.63,66.61,Communication,Traditional Rocket,Low,237,SpaceX,Al Dhafra,2016-05-23 23:30:00,New Shepard,Active,33684.23,Success,2016
+France-Research-GSLV-2006-065,Manned,France,Sriharikota,46.84,82.23,Research,Hybrid Propulsion,Low,116,ISRO,Sriharikota,2006-08-03 21:05:00,GSLV Mk III,Retired,47665.22,Success,2006
+China-Research-Long-2009-066,Manned,China,Al Dhafra,30.94,65.46,Research,AI-Based Navigation,High,343,Blue Origin,Al Dhafra,2009-10-06 20:13:00,Long March 5,Retired,36943.36,Success,2009
+Russia-Spy-Falcon-2012-067,Unmanned,Russia,Kourou,43.93,87.18,Spy,Hybrid Propulsion,High,281,Roscosmos,Kourou,2012-02-28 12:55:00,Falcon 9,Active,45883.18,Success,2012
+USA-Research-Ariane-2012-068,Satellite Deployment,USA,Jiuquan,18.29,91.57,Research,Hybrid Propulsion,High,377,Roscosmos,Jiuquan,2012-05-20 17:41:00,Ariane 5,Retired,14195.88,Failure,2012
+France-Weather-Soyuz-2008-069,Manned,France,Jiuquan,43.42,79.94,Weather,Traditional Rocket,Medium,358,Blue Origin,Jiuquan,2008-02-23 15:47:00,Soyuz,Retired,49843.74,Success,2008
+UAE-Navigation-Ariane-2008-070,Unmanned,UAE,Cape Canaveral,40.02,87.38,Navigation,Traditional Rocket,Medium,68,ISRO,Cape Canaveral,2008-07-18 15:47:00,Ariane 5,Active,39618.93,Failure,2008
+USA-Navigation-Soyuz-2020-071,Satellite Deployment,USA,Kourou,44.56,74.65,Navigation,AI-Based Navigation,Medium,373,Roscosmos,Kourou,2020-05-11 07:04:00,Soyuz,Active,35772.64,Success,2020
+China-Navigation-Ariane-2014-072,Manned,China,Cape Canaveral,29.12,78.16,Navigation,Reusable Rocket,Low,138,Blue Origin,Cape Canaveral,2014-05-11 21:07:00,Ariane 5,Retired,18099.98,Success,2014
+India-Spy-New-2006-073,Satellite Deployment,India,Jiuquan,14.68,61.19,Spy,Reusable Rocket,Low,357,Blue Origin,Jiuquan,2006-10-21 18:51:00,New Shepard,Active,14012.06,Success,2006
+China-Navigation-Ariane-2005-074,Satellite Deployment,China,Jiuquan,41.22,64.96,Navigation,AI-Based Navigation,High,211,SpaceX,Jiuquan,2005-02-20 02:35:00,Ariane 5,Retired,33640.23,Success,2005
+USA-Weather-GSLV-2011-075,Unmanned,USA,Cape Canaveral,38.61,84.29,Weather,Reusable Rocket,High,117,NASA,Cape Canaveral,2011-06-13 10:17:00,GSLV Mk III,Active,28165.71,Success,2011
+France-Navigation-Soyuz-2010-076,Satellite Deployment,France,Jiuquan,3.06,81.08,Navigation,AI-Based Navigation,High,29,SpaceX,Jiuquan,2010-12-05 20:37:00,Soyuz,Retired,2811.57,Success,2010
+USA-Spy-New-2020-077,Research,USA,Jiuquan,36.44,80.14,Spy,Hybrid Propulsion,Low,131,Blue Origin,Jiuquan,2020-03-17 03:21:00,New Shepard,Active,43200.03,Success,2020
+UAE-Weather-Ariane-2018-078,Manned,UAE,Baikonur,39.86,77.12,Weather,Hybrid Propulsion,Medium,140,Blue Origin,Baikonur,2018-03-03 03:11:00,Ariane 5,Retired,30393.22,Success,2018
+India-Research-New-2012-079,Research,India,Kourou,1.75,92.6,Research,AI-Based Navigation,High,234,ESA,Kourou,2012-01-13 03:29:00,New Shepard,Retired,2060.78,Success,2012
+France-Spy-Ariane-2014-080,Satellite Deployment,France,Baikonur,20.74,66.1,Spy,Hybrid Propulsion,Medium,103,SpaceX,Baikonur,2014-01-01 11:45:00,Ariane 5,Active,14600.47,Success,2014
+France-Navigation-New-2009-081,Manned,France,Cape Canaveral,27.69,85.75,Navigation,Hybrid Propulsion,Low,385,ESA,Cape Canaveral,2009-06-10 13:15:00,New Shepard,Active,28486.3,Success,2009
+France-Weather-Ariane-2010-082,Manned,France,Al Dhafra,47.77,81.62,Weather,AI-Based Navigation,Low,150,ISRO,Al Dhafra,2010-11-28 18:57:00,Ariane 5,Retired,49811.6,Success,2010
+USA-Spy-New-2006-083,Satellite Deployment,USA,Kourou,21.27,73.88,Spy,AI-Based Navigation,Low,2,Roscosmos,Kourou,2006-10-25 09:15:00,New Shepard,Active,15923.54,Failure,2006
+USA-Research-Ariane-2013-084,Manned,USA,Al Dhafra,1.21,61.79,Research,Hybrid Propulsion,High,172,NASA,Al Dhafra,2013-04-03 13:39:00,Ariane 5,Retired,810.27,Success,2013
+China-Navigation-New-2011-085,Manned,China,Cape Canaveral,42.85,78.49,Navigation,Hybrid Propulsion,High,137,Blue Origin,Cape Canaveral,2011-04-13 10:45:00,New Shepard,Retired,43801.04,Success,2011
+France-Research-Ariane-2010-086,Unmanned,France,Sriharikota,24.83,66.75,Research,Reusable Rocket,Medium,324,Blue Origin,Sriharikota,2010-03-26 23:47:00,Ariane 5,Active,21951.78,Success,2010
+France-Spy-Soyuz-2020-087,Research,France,Baikonur,20.23,84.77,Spy,Traditional Rocket,High,250,ESA,Baikonur,2020-03-03 03:02:00,Soyuz,Retired,19613.19,Success,2020
+USA-Navigation-New-2006-088,Satellite Deployment,USA,Al Dhafra,19.04,79.62,Navigation,AI-Based Navigation,Low,360,Blue Origin,Al Dhafra,2006-10-27 15:18:00,New Shepard,Retired,18573.82,Failure,2006
+India-Communication-Falcon-2012-089,Research,India,Cape Canaveral,33.11,62.75,Communication,Reusable Rocket,Medium,70,ISRO,Cape Canaveral,2012-11-12 10:05:00,Falcon 9,Active,23102.86,Success,2012
+France-Communication-Soyuz-2018-090,Research,France,Jiuquan,1.81,96.67,Communication,AI-Based Navigation,Low,214,SpaceX,Jiuquan,2018-12-11 03:46:00,Soyuz,Active,1722.15,Success,2018
+UAE-Communication-GSLV-2023-091,Unmanned,UAE,Kourou,19.71,77.87,Communication,AI-Based Navigation,Medium,23,SpaceX,Kourou,2023-09-13 21:56:00,GSLV Mk III,Active,19433.53,Success,2023
+France-Spy-Long-2023-092,Satellite Deployment,France,Sriharikota,47.1,97.49,Spy,Reusable Rocket,Medium,170,NASA,Sriharikota,2023-05-13 10:49:00,Long March 5,Retired,39171.26,Partial Failure,2023
+UAE-Communication-Ariane-2023-093,Research,UAE,Cape Canaveral,10.19,63.93,Communication,AI-Based Navigation,High,393,NASA,Cape Canaveral,2023-02-14 21:40:00,Ariane 5,Retired,6538.07,Success,2023
+UAE-Navigation-New-2006-094,Satellite Deployment,UAE,Sriharikota,5.17,62.78,Navigation,Traditional Rocket,High,41,ESA,Sriharikota,2006-05-01 05:23:00,New Shepard,Active,5220.69,Success,2006
+Russia-Navigation-New-2016-095,Manned,Russia,Cape Canaveral,42.32,91.76,Navigation,Hybrid Propulsion,Low,193,Blue Origin,Cape Canaveral,2016-02-03 01:36:00,New Shepard,Retired,25982.92,Success,2016
+China-Weather-New-2008-096,Research,China,Baikonur,6.35,84.53,Weather,Traditional Rocket,Medium,380,ESA,Baikonur,2008-01-14 00:50:00,New Shepard,Retired,6464.57,Failure,2008
+India-Research-GSLV-2021-097,Unmanned,India,Jiuquan,36.89,71.0,Research,Reusable Rocket,High,334,NASA,Jiuquan,2021-07-14 00:48:00,GSLV Mk III,Active,39918.25,Success,2021
+USA-Weather-Falcon-2005-098,Research,USA,Al Dhafra,37.66,98.63,Weather,Hybrid Propulsion,Low,175,NASA,Al Dhafra,2005-07-16 23:05:00,Falcon 9,Active,40827.24,Success,2005
+Russia-Weather-Long-2023-099,Unmanned,Russia,Cape Canaveral,18.91,73.29,Weather,Reusable Rocket,Medium,302,NASA,Cape Canaveral,2023-03-10 06:27:00,Long March 5,Active,20155.18,Partial Failure,2023
+India-Weather-GSLV-2013-100,Research,India,Baikonur,42.99,89.28,Weather,AI-Based Navigation,High,371,ISRO,Baikonur,2013-01-19 11:09:00,GSLV Mk III,Retired,36859.47,Failure,2013
+India-Navigation-Soyuz-2009-101,Research,India,Al Dhafra,5.6,79.7,Navigation,Hybrid Propulsion,Medium,163,ISRO,Al Dhafra,2009-12-22 03:49:00,Soyuz,Active,6392.58,Failure,2009
+China-Weather-Falcon-2022-102,Unmanned,China,Sriharikota,16.34,75.18,Weather,Traditional Rocket,High,145,Roscosmos,Sriharikota,2022-10-04 04:26:00,Falcon 9,Retired,18583.71,Success,2022
+China-Research-GSLV-2021-103,Unmanned,China,Cape Canaveral,45.32,72.45,Research,AI-Based Navigation,High,331,ISRO,Cape Canaveral,2021-05-05 14:44:00,GSLV Mk III,Retired,29674.27,Partial Failure,2021
+India-Navigation-New-2020-104,Research,India,Baikonur,47.56,84.64,Navigation,Reusable Rocket,Low,384,Blue Origin,Baikonur,2020-06-09 12:36:00,New Shepard,Retired,44899.62,Success,2020
+India-Communication-Ariane-2021-105,Research,India,Kourou,15.01,86.23,Communication,AI-Based Navigation,Low,273,ISRO,Kourou,2021-06-26 02:18:00,Ariane 5,Active,11965.95,Failure,2021
+China-Research-GSLV-2006-106,Satellite Deployment,China,Al Dhafra,39.68,63.56,Research,AI-Based Navigation,High,284,Roscosmos,Al Dhafra,2006-02-17 07:14:00,GSLV Mk III,Active,42607.23,Success,2006
+USA-Navigation-GSLV-2021-107,Unmanned,USA,Sriharikota,3.35,77.22,Navigation,Traditional Rocket,Medium,297,SpaceX,Sriharikota,2021-02-06 22:59:00,GSLV Mk III,Retired,3114.55,Failure,2021
+UAE-Spy-Soyuz-2006-108,Satellite Deployment,UAE,Cape Canaveral,17.87,65.58,Spy,Reusable Rocket,Low,259,NASA,Cape Canaveral,2006-11-16 02:18:00,Soyuz,Retired,11977.19,Failure,2006
+India-Navigation-Falcon-2022-109,Research,India,Jiuquan,31.1,63.28,Navigation,Hybrid Propulsion,High,73,ESA,Jiuquan,2022-01-09 14:32:00,Falcon 9,Active,20546.95,Success,2022
+France-Research-Long-2008-110,Research,France,Sriharikota,4.1,87.54,Research,Traditional Rocket,Low,303,ESA,Sriharikota,2008-03-08 23:11:00,Long March 5,Active,4481.78,Success,2008
+India-Spy-Soyuz-2010-111,Unmanned,India,Kourou,4.7,74.6,Spy,Hybrid Propulsion,High,111,Blue Origin,Kourou,2010-09-21 15:20:00,Soyuz,Retired,5602.32,Success,2010
+China-Weather-Falcon-2012-112,Manned,China,Baikonur,40.73,98.45,Weather,Reusable Rocket,Medium,64,ESA,Baikonur,2012-06-16 18:51:00,Falcon 9,Retired,47586.86,Failure,2012
+India-Communication-Soyuz-2019-113,Satellite Deployment,India,Cape Canaveral,19.12,90.31,Communication,AI-Based Navigation,Medium,118,ESA,Cape Canaveral,2019-04-04 21:47:00,Soyuz,Active,12429.92,Success,2019
+USA-Navigation-Soyuz-2007-114,Satellite Deployment,USA,Al Dhafra,21.5,64.34,Navigation,Traditional Rocket,High,231,ESA,Al Dhafra,2007-03-21 18:22:00,Soyuz,Active,24591.97,Success,2007
+Russia-Communication-Soyuz-2012-115,Unmanned,Russia,Sriharikota,1.06,62.2,Communication,AI-Based Navigation,High,254,Roscosmos,Sriharikota,2012-11-27 12:37:00,Soyuz,Retired,934.07,Success,2012
+UAE-Navigation-New-2020-116,Research,UAE,Kourou,6.32,89.1,Navigation,Hybrid Propulsion,High,335,ISRO,Kourou,2020-10-02 08:34:00,New Shepard,Active,6253.81,Success,2020
+Russia-Spy-GSLV-2007-117,Manned,Russia,Kourou,48.13,71.14,Spy,Reusable Rocket,High,399,ISRO,Kourou,2007-08-24 18:39:00,GSLV Mk III,Retired,39703.51,Failure,2007
+India-Research-Long-2019-118,Research,India,Jiuquan,11.57,60.47,Research,Traditional Rocket,High,118,NASA,Jiuquan,2019-05-05 11:55:00,Long March 5,Active,13628.69,Partial Failure,2019
+France-Weather-Soyuz-2022-119,Satellite Deployment,France,Jiuquan,2.64,80.58,Weather,AI-Based Navigation,Low,212,ISRO,Jiuquan,2022-11-21 15:50:00,Soyuz,Retired,2995.57,Partial Failure,2022
+China-Spy-Ariane-2006-120,Unmanned,China,Al Dhafra,4.15,97.8,Spy,Hybrid Propulsion,Low,124,ISRO,Al Dhafra,2006-06-14 11:52:00,Ariane 5,Retired,3869.1,Success,2006
+France-Navigation-Long-2016-121,Satellite Deployment,France,Kourou,31.66,77.73,Navigation,Reusable Rocket,Medium,400,Blue Origin,Kourou,2016-02-10 19:43:00,Long March 5,Retired,32212.44,Success,2016
+France-Spy-New-2012-122,Research,France,Cape Canaveral,29.42,61.77,Spy,Traditional Rocket,High,379,SpaceX,Cape Canaveral,2012-01-27 13:04:00,New Shepard,Active,33559.24,Success,2012
+China-Weather-Ariane-2011-123,Satellite Deployment,China,Kourou,47.55,77.77,Weather,Traditional Rocket,High,284,SpaceX,Kourou,2011-10-15 23:25:00,Ariane 5,Retired,53929.23,Success,2011
+UAE-Communication-GSLV-2009-124,Manned,UAE,Kourou,14.23,78.08,Communication,AI-Based Navigation,Low,347,ESA,Kourou,2009-01-03 00:58:00,GSLV Mk III,Active,10144.18,Success,2009
+France-Spy-Ariane-2010-125,Research,France,Kourou,29.39,98.0,Spy,AI-Based Navigation,Medium,224,NASA,Kourou,2010-09-24 15:31:00,Ariane 5,Retired,19004.77,Partial Failure,2010
+India-Research-Long-2023-126,Research,India,Al Dhafra,35.06,72.07,Research,Traditional Rocket,High,65,Blue Origin,Al Dhafra,2023-05-23 17:39:00,Long March 5,Active,32313.32,Failure,2023
+France-Weather-New-2013-127,Satellite Deployment,France,Kourou,34.39,95.53,Weather,AI-Based Navigation,High,349,SpaceX,Kourou,2013-06-12 11:14:00,New Shepard,Retired,23989.44,Failure,2013
+UAE-Spy-Soyuz-2023-128,Research,UAE,Kourou,47.52,83.92,Spy,Hybrid Propulsion,High,170,NASA,Kourou,2023-10-23 07:01:00,Soyuz,Retired,49203.71,Success,2023
+Russia-Navigation-Long-2011-129,Satellite Deployment,Russia,Baikonur,46.67,61.76,Navigation,Traditional Rocket,Medium,230,Roscosmos,Baikonur,2011-05-02 16:53:00,Long March 5,Retired,52253.52,Success,2011
+China-Weather-Falcon-2006-130,Manned,China,Jiuquan,19.13,98.5,Weather,Hybrid Propulsion,High,241,ISRO,Jiuquan,2006-12-19 04:56:00,Falcon 9,Retired,20781.53,Success,2006
+India-Spy-Ariane-2009-131,Satellite Deployment,India,Al Dhafra,29.91,97.83,Spy,AI-Based Navigation,High,199,NASA,Al Dhafra,2009-09-14 08:49:00,Ariane 5,Active,24781.47,Failure,2009
+Russia-Navigation-Long-2023-132,Unmanned,Russia,Baikonur,42.0,76.18,Navigation,AI-Based Navigation,High,254,ESA,Baikonur,2023-04-07 19:55:00,Long March 5,Active,37011.07,Success,2023
+Russia-Communication-GSLV-2011-133,Satellite Deployment,Russia,Baikonur,3.29,91.7,Communication,Reusable Rocket,Medium,238,ESA,Baikonur,2011-03-05 12:03:00,GSLV Mk III,Retired,3680.96,Partial Failure,2011
+USA-Spy-Falcon-2012-134,Manned,USA,Jiuquan,49.83,89.99,Spy,Reusable Rocket,Medium,195,SpaceX,Jiuquan,2012-10-20 01:20:00,Falcon 9,Retired,46504.3,Partial Failure,2012
+India-Weather-GSLV-2008-135,Satellite Deployment,India,Kourou,42.56,77.57,Weather,Reusable Rocket,Low,153,ISRO,Kourou,2008-08-16 07:49:00,GSLV Mk III,Retired,31852.28,Success,2008
+India-Research-Long-2019-136,Research,India,Sriharikota,47.73,68.92,Research,Reusable Rocket,Medium,370,ESA,Sriharikota,2019-09-06 16:50:00,Long March 5,Active,45997.63,Success,2019
+Russia-Communication-Soyuz-2021-137,Unmanned,Russia,Al Dhafra,31.1,64.43,Communication,AI-Based Navigation,High,354,ISRO,Al Dhafra,2021-08-11 03:58:00,Soyuz,Active,25343.32,Success,2021
+China-Research-New-2007-138,Manned,China,Al Dhafra,26.26,80.29,Research,Traditional Rocket,Medium,68,Roscosmos,Al Dhafra,2007-09-25 04:47:00,New Shepard,Retired,27924.65,Failure,2007
+France-Research-Ariane-2015-139,Satellite Deployment,France,Sriharikota,27.82,94.19,Research,Traditional Rocket,Low,74,NASA,Sriharikota,2015-04-26 19:19:00,Ariane 5,Retired,26055.18,Success,2015
+USA-Communication-New-2018-140,Satellite Deployment,USA,Sriharikota,7.13,89.45,Communication,Traditional Rocket,High,73,NASA,Sriharikota,2018-02-08 15:37:00,New Shepard,Active,4401.13,Success,2018
+Russia-Research-Falcon-2011-141,Manned,Russia,Jiuquan,35.35,65.32,Research,Traditional Rocket,Medium,145,ISRO,Jiuquan,2011-01-22 03:02:00,Falcon 9,Active,25726.97,Success,2011
+France-Weather-Ariane-2019-142,Research,France,Kourou,17.85,75.3,Weather,Traditional Rocket,Low,351,SpaceX,Kourou,2019-09-24 06:58:00,Ariane 5,Active,17028.02,Success,2019
+Russia-Weather-New-2017-143,Satellite Deployment,Russia,Baikonur,45.26,80.05,Weather,Reusable Rocket,Medium,54,ESA,Baikonur,2017-09-23 00:25:00,New Shepard,Retired,36613.23,Failure,2017
+Russia-Research-Long-2011-144,Satellite Deployment,Russia,Jiuquan,20.13,93.63,Research,Hybrid Propulsion,Medium,390,SpaceX,Jiuquan,2011-01-05 21:44:00,Long March 5,Retired,19591.56,Partial Failure,2011
+UAE-Communication-Ariane-2023-145,Research,UAE,Baikonur,7.78,79.19,Communication,AI-Based Navigation,Medium,248,Roscosmos,Baikonur,2023-06-17 08:11:00,Ariane 5,Active,8993.31,Success,2023
+USA-Research-Soyuz-2019-146,Satellite Deployment,USA,Cape Canaveral,23.23,79.21,Research,Traditional Rocket,High,396,ISRO,Cape Canaveral,2019-07-06 12:15:00,Soyuz,Retired,27597.69,Success,2019
+USA-Spy-Falcon-2018-147,Manned,USA,Baikonur,31.85,62.96,Spy,Reusable Rocket,Low,298,Blue Origin,Baikonur,2018-07-15 02:07:00,Falcon 9,Retired,23699.18,Success,2018
+China-Spy-Long-2009-148,Research,China,Cape Canaveral,6.84,65.41,Spy,Reusable Rocket,High,63,ISRO,Cape Canaveral,2009-02-27 04:53:00,Long March 5,Active,4727.41,Success,2009
+UAE-Spy-Soyuz-2007-149,Unmanned,UAE,Al Dhafra,9.5,94.97,Spy,AI-Based Navigation,High,221,ISRO,Al Dhafra,2007-10-09 15:36:00,Soyuz,Active,7670.3,Success,2007
+Russia-Navigation-Soyuz-2009-150,Research,Russia,Kourou,33.54,67.5,Navigation,Traditional Rocket,Low,53,ESA,Kourou,2009-12-09 09:03:00,Soyuz,Retired,23591.77,Success,2009
+China-Weather-Long-2019-151,Manned,China,Sriharikota,8.86,66.9,Weather,AI-Based Navigation,High,234,Blue Origin,Sriharikota,2019-11-19 13:12:00,Long March 5,Retired,6796.99,Success,2019
+France-Navigation-Ariane-2023-152,Satellite Deployment,France,Baikonur,6.47,68.05,Navigation,Hybrid Propulsion,Low,380,Blue Origin,Baikonur,2023-07-08 21:56:00,Ariane 5,Retired,5670.74,Success,2023
+Russia-Navigation-New-2015-153,Unmanned,Russia,Al Dhafra,25.42,61.53,Navigation,Hybrid Propulsion,Medium,302,ISRO,Al Dhafra,2015-09-25 08:16:00,New Shepard,Active,25781.9,Failure,2015
+India-Research-GSLV-2017-154,Satellite Deployment,India,Kourou,31.58,94.07,Research,Reusable Rocket,Low,360,ESA,Kourou,2017-01-02 22:11:00,GSLV Mk III,Retired,20497.17,Partial Failure,2017
+China-Weather-Falcon-2005-155,Unmanned,China,Jiuquan,3.52,91.44,Weather,Traditional Rocket,Low,299,ISRO,Jiuquan,2005-03-17 07:54:00,Falcon 9,Retired,2696.77,Success,2005
+China-Communication-Long-2023-156,Manned,China,Sriharikota,9.63,74.45,Communication,Hybrid Propulsion,Low,181,Blue Origin,Sriharikota,2023-07-04 19:54:00,Long March 5,Active,6987.62,Success,2023
+USA-Research-GSLV-2021-157,Satellite Deployment,USA,Sriharikota,31.1,78.04,Research,AI-Based Navigation,Low,331,NASA,Sriharikota,2021-07-18 17:56:00,GSLV Mk III,Active,25543.93,Success,2021
+India-Communication-GSLV-2021-158,Satellite Deployment,India,Cape Canaveral,2.32,87.82,Communication,Traditional Rocket,Low,51,SpaceX,Cape Canaveral,2021-02-08 22:32:00,GSLV Mk III,Active,1743.39,Failure,2021
+France-Spy-Ariane-2005-159,Unmanned,France,Jiuquan,25.83,64.18,Spy,Traditional Rocket,Low,331,Roscosmos,Jiuquan,2005-03-24 03:29:00,Ariane 5,Retired,23744.69,Success,2005
+UAE-Weather-Falcon-2005-160,Unmanned,UAE,Al Dhafra,26.86,70.5,Weather,Hybrid Propulsion,Medium,62,ISRO,Al Dhafra,2005-06-04 13:31:00,Falcon 9,Active,20023.65,Success,2005
+USA-Spy-GSLV-2020-161,Satellite Deployment,USA,Baikonur,1.49,68.25,Spy,AI-Based Navigation,Low,341,NASA,Baikonur,2020-02-06 09:46:00,GSLV Mk III,Retired,1181.94,Success,2020
+France-Weather-GSLV-2011-162,Research,France,Baikonur,6.43,83.15,Weather,Traditional Rocket,High,368,ISRO,Baikonur,2011-04-11 07:59:00,GSLV Mk III,Retired,7293.65,Success,2011
+India-Communication-Long-2021-163,Satellite Deployment,India,Jiuquan,39.56,63.39,Communication,Hybrid Propulsion,Low,32,NASA,Jiuquan,2021-05-07 02:02:00,Long March 5,Retired,35567.02,Success,2021
+Russia-Communication-Ariane-2008-164,Unmanned,Russia,Baikonur,29.55,76.83,Communication,Traditional Rocket,High,347,Roscosmos,Baikonur,2008-04-27 21:26:00,Ariane 5,Retired,30946.64,Success,2008
+France-Navigation-Falcon-2019-165,Unmanned,France,Baikonur,14.55,85.19,Navigation,Hybrid Propulsion,High,340,ESA,Baikonur,2019-12-11 02:18:00,Falcon 9,Retired,11899.71,Success,2019
+USA-Weather-Ariane-2022-166,Manned,USA,Sriharikota,18.13,83.63,Weather,Traditional Rocket,Low,317,SpaceX,Sriharikota,2022-03-16 04:56:00,Ariane 5,Active,21609.31,Success,2022
+India-Navigation-Soyuz-2020-167,Satellite Deployment,India,Al Dhafra,5.54,69.59,Navigation,Hybrid Propulsion,Medium,21,ESA,Al Dhafra,2020-08-07 04:38:00,Soyuz,Retired,3832.1,Success,2020
+UAE-Research-Soyuz-2016-168,Research,UAE,Cape Canaveral,9.74,66.76,Research,AI-Based Navigation,High,250,ISRO,Cape Canaveral,2016-02-12 22:58:00,Soyuz,Retired,7510.1,Failure,2016
+UAE-Navigation-Long-2011-169,Research,UAE,Baikonur,4.47,76.01,Navigation,Reusable Rocket,Medium,38,ESA,Baikonur,2011-06-26 08:57:00,Long March 5,Active,4088.74,Partial Failure,2011
+USA-Spy-Soyuz-2016-170,Unmanned,USA,Baikonur,6.05,97.81,Spy,Reusable Rocket,High,24,Roscosmos,Baikonur,2016-12-19 17:50:00,Soyuz,Active,5074.22,Failure,2016
+USA-Navigation-Soyuz-2016-171,Unmanned,USA,Kourou,40.95,66.66,Navigation,AI-Based Navigation,Medium,159,ISRO,Kourou,2016-06-04 20:41:00,Soyuz,Retired,30906.67,Success,2016
+Russia-Spy-New-2024-172,Research,Russia,Al Dhafra,46.5,82.29,Spy,Traditional Rocket,Medium,198,ISRO,Al Dhafra,2024-12-11 19:25:00,New Shepard,Active,43433.68,Success,2024
+USA-Research-Soyuz-2006-173,Satellite Deployment,USA,Sriharikota,38.59,72.62,Research,Reusable Rocket,Low,33,ESA,Sriharikota,2006-02-14 19:37:00,Soyuz,Active,27484.81,Success,2006
+Russia-Communication-GSLV-2016-174,Research,Russia,Jiuquan,25.63,64.48,Communication,Hybrid Propulsion,High,242,Blue Origin,Jiuquan,2016-10-04 07:08:00,GSLV Mk III,Retired,19105.78,Success,2016
+USA-Communication-Ariane-2023-175,Satellite Deployment,USA,Al Dhafra,14.79,66.02,Communication,AI-Based Navigation,High,129,SpaceX,Al Dhafra,2023-09-05 03:24:00,Ariane 5,Active,14031.91,Success,2023
+China-Weather-Falcon-2014-176,Unmanned,China,Jiuquan,26.86,73.13,Weather,Traditional Rocket,High,69,ESA,Jiuquan,2014-05-16 23:27:00,Falcon 9,Active,16951.19,Success,2014
+China-Spy-New-2010-177,Unmanned,China,Al Dhafra,3.64,72.57,Spy,Reusable Rocket,Medium,14,ISRO,Al Dhafra,2010-12-21 00:59:00,New Shepard,Active,4346.07,Failure,2010
+France-Weather-New-2024-178,Satellite Deployment,France,Al Dhafra,13.1,89.65,Weather,Traditional Rocket,High,261,ESA,Al Dhafra,2024-02-12 00:54:00,New Shepard,Active,13216.61,Success,2024
+USA-Spy-Ariane-2011-179,Unmanned,USA,Al Dhafra,23.84,73.61,Spy,AI-Based Navigation,Medium,303,ISRO,Al Dhafra,2011-11-21 02:55:00,Ariane 5,Retired,20194.97,Partial Failure,2011
+Russia-Spy-Long-2017-180,Unmanned,Russia,Cape Canaveral,41.62,64.85,Spy,Traditional Rocket,High,346,SpaceX,Cape Canaveral,2017-04-12 16:14:00,Long March 5,Retired,49070.65,Success,2017
+China-Spy-New-2011-181,Research,China,Al Dhafra,46.95,62.59,Spy,AI-Based Navigation,High,169,NASA,Al Dhafra,2011-02-05 10:37:00,New Shepard,Retired,33275.34,Success,2011
+UAE-Communication-Ariane-2006-182,Satellite Deployment,UAE,Cape Canaveral,28.94,65.45,Communication,Reusable Rocket,Medium,27,ISRO,Cape Canaveral,2006-04-15 23:47:00,Ariane 5,Active,31981.51,Failure,2006
+USA-Weather-Long-2012-183,Manned,USA,Cape Canaveral,10.48,66.41,Weather,Reusable Rocket,Low,258,Blue Origin,Cape Canaveral,2012-01-11 00:56:00,Long March 5,Retired,7317.07,Failure,2012
+UAE-Research-Ariane-2022-184,Satellite Deployment,UAE,Sriharikota,33.43,73.99,Research,Traditional Rocket,Low,353,ISRO,Sriharikota,2022-09-27 20:37:00,Ariane 5,Retired,30549.65,Failure,2022
+France-Spy-Soyuz-2010-185,Satellite Deployment,France,Sriharikota,19.93,77.13,Spy,AI-Based Navigation,Low,117,ISRO,Sriharikota,2010-04-17 13:14:00,Soyuz,Retired,21722.9,Success,2010
+UAE-Weather-New-2021-186,Manned,UAE,Jiuquan,23.4,89.16,Weather,Traditional Rocket,Medium,83,Blue Origin,Jiuquan,2021-04-15 09:31:00,New Shepard,Active,18271.35,Success,2021
+UAE-Navigation-GSLV-2005-187,Research,UAE,Al Dhafra,11.99,74.97,Navigation,Reusable Rocket,Low,98,ISRO,Al Dhafra,2005-03-04 15:46:00,GSLV Mk III,Retired,13665.54,Success,2005
+India-Weather-Falcon-2016-188,Research,India,Baikonur,45.37,64.56,Weather,Traditional Rocket,High,87,NASA,Baikonur,2016-02-16 22:59:00,Falcon 9,Active,44215.01,Partial Failure,2016
+UAE-Research-Soyuz-2018-189,Manned,UAE,Al Dhafra,31.57,65.43,Research,AI-Based Navigation,Low,315,SpaceX,Al Dhafra,2018-03-16 13:57:00,Soyuz,Active,25285.78,Failure,2018
+UAE-Spy-GSLV-2020-190,Satellite Deployment,UAE,Jiuquan,31.19,94.86,Spy,Reusable Rocket,High,85,SpaceX,Jiuquan,2020-03-20 09:18:00,GSLV Mk III,Active,28697.19,Failure,2020
+China-Research-Ariane-2008-191,Unmanned,China,Kourou,8.01,69.69,Research,Hybrid Propulsion,Low,36,ESA,Kourou,2008-07-26 17:46:00,Ariane 5,Active,6304.14,Success,2008
+USA-Weather-Falcon-2014-192,Satellite Deployment,USA,Sriharikota,2.16,89.74,Weather,Hybrid Propulsion,Medium,203,ESA,Sriharikota,2014-01-18 00:15:00,Falcon 9,Retired,2034.58,Failure,2014
+Russia-Weather-New-2005-193,Unmanned,Russia,Jiuquan,17.43,64.31,Weather,Traditional Rocket,Medium,328,NASA,Jiuquan,2005-11-06 02:23:00,New Shepard,Active,19046.71,Failure,2005
+India-Weather-Ariane-2011-194,Unmanned,India,Sriharikota,6.81,91.09,Weather,Traditional Rocket,High,310,SpaceX,Sriharikota,2011-09-17 03:34:00,Ariane 5,Retired,5709.32,Success,2011
+USA-Research-Ariane-2010-195,Unmanned,USA,Baikonur,11.85,88.08,Research,AI-Based Navigation,Low,264,ISRO,Baikonur,2010-07-03 10:47:00,Ariane 5,Active,12245.22,Success,2010
+India-Communication-Soyuz-2020-196,Satellite Deployment,India,Baikonur,34.85,69.82,Communication,Hybrid Propulsion,High,48,NASA,Baikonur,2020-01-12 14:21:00,Soyuz,Retired,32258.37,Success,2020
+China-Spy-Ariane-2005-197,Research,China,Baikonur,9.49,82.75,Spy,Reusable Rocket,High,107,ESA,Baikonur,2005-06-17 13:28:00,Ariane 5,Active,10866.72,Success,2005
+China-Weather-Ariane-2020-198,Unmanned,China,Sriharikota,23.37,65.98,Weather,AI-Based Navigation,High,99,Blue Origin,Sriharikota,2020-03-09 20:57:00,Ariane 5,Retired,27304.81,Success,2020
+USA-Navigation-GSLV-2007-199,Unmanned,USA,Kourou,25.54,60.71,Navigation,Traditional Rocket,High,182,ESA,Kourou,2007-08-05 16:37:00,GSLV Mk III,Active,24693.92,Failure,2007
+China-Research-Soyuz-2014-200,Satellite Deployment,China,Kourou,46.64,87.17,Research,AI-Based Navigation,Low,143,NASA,Kourou,2014-10-24 08:11:00,Soyuz,Retired,43798.69,Partial Failure,2014
